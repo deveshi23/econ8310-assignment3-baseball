@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1700777</id>
+      <name>label_8140</name>
+      <size>45</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-10-17 00:21:51.312307+00:00</created>
+      <updated>2025-10-17 00:24:40.582252+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>44</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3131276</id>
+          <start>0</start>
+          <stop>44</stop>
+          <url>https://app.cvat.ai/api/jobs/3129555</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>jcoldanghise</username>
+        <email>jcoldanghise@unomaha.edu</email>
+      </owner>
+      <assignee>
+        <username>jcoldanghise</username>
+        <email>jcoldanghise@unomaha.edu</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>baseball</name>
+          <color>#ff355e</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>moving</name>
+              <mutable>False</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>2160</width>
+        <height>3840</height>
+      </original_size>
+      <source>IMG_8140.mov</source>
+    </task>
+    <dumped>2025-10-17 00:25:04.580623+00:00</dumped>
+  </meta>
+  <track id="0" label="baseball" source="manual">
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="2126.27" ytl="1150.45" xbr="2160.00" ybr="1243.93" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="1817.10" ytl="1193.60" xbr="1951.50" ybr="1315.80" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="1493.50" ytl="1272.70" xbr="1671.10" ybr="1394.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1507.90" ytl="1279.89" xbr="1728.63" ybr="1402.10" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="21" keyframe="1" outside="1" occluded="0" xtl="1587.00" ytl="1294.27" xbr="1807.73" ybr="1416.48" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+  </track>
+</annotations>

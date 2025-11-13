@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1700754</id>
+      <name>IMG_8141_amarnath</name>
+      <size>57</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-10-17 00:03:14.474838+00:00</created>
+      <updated>2025-10-17 00:08:56.165545+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>56</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3131259</id>
+          <start>0</start>
+          <stop>56</stop>
+          <url>https://app.cvat.ai/api/jobs/3129538</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>achaudhari</username>
+        <email>achaudhari@unomaha.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Baseball</name>
+          <color>#ab1c39</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>Moving</name>
+              <mutable>False</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>2160</width>
+        <height>3840</height>
+      </original_size>
+      <source>IMG_8141_amarnath.mov</source>
+    </task>
+    <dumped>2025-10-17 00:09:27.381946+00:00</dumped>
+  </meta>
+  <track id="0" label="Baseball" source="manual">
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="1873.57" ytl="1126.56" xbr="2083.49" ybr="1269.92" z_order="0">
+      <attribute name="Moving">true</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="1561.25" ytl="1203.36" xbr="1771.17" ybr="1346.72" z_order="0">
+      <attribute name="Moving">true</attribute>
+    </box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="1284.77" ytl="1280.16" xbr="1494.69" ybr="1423.52" z_order="0">
+      <attribute name="Moving">true</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="2057.89" ytl="1003.68" xbr="2160.00" ybr="1147.04" z_order="0">
+      <attribute name="Moving">true</attribute>
+    </box>
+    <box frame="31" keyframe="1" outside="1" occluded="0" xtl="2057.89" ytl="1003.68" xbr="2160.00" ybr="1147.04" z_order="0">
+      <attribute name="Moving">true</attribute>
+    </box>
+  </track>
+  <track id="1" label="Baseball" source="manual">
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="2" label="Baseball" source="manual">
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="3" label="Baseball" source="manual">
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="4" label="Baseball" source="manual">
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="5" label="Baseball" source="manual">
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="6" label="Baseball" source="manual">
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="7" label="Baseball" source="manual">
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="8" label="Baseball" source="manual">
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="9" label="Baseball" source="manual">
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="10" label="Baseball" source="manual">
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="11" label="Baseball" source="manual">
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="12" label="Baseball" source="manual">
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="13" label="Baseball" source="manual">
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="14" label="Baseball" source="manual">
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="15" label="Baseball" source="manual">
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="16" label="Baseball" source="manual">
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="17" label="Baseball" source="manual">
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="18" label="Baseball" source="manual">
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="19" label="Baseball" source="manual">
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="20" label="Baseball" source="manual">
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="52" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="21" label="Baseball" source="manual">
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="53" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="22" label="Baseball" source="manual">
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="54" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="23" label="Baseball" source="manual">
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+    <box frame="55" keyframe="1" outside="1" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="24" label="Baseball" source="manual">
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+  <track id="25" label="Baseball" source="manual">
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="1617.57" ytl="1223.84" xbr="1750.69" ybr="1326.24" z_order="0">
+      <attribute name="Moving">false</attribute>
+    </box>
+  </track>
+</annotations>
